@@ -1,1 +1,1 @@
-<%@include file="tomcat.gif"%>
+<%@include file="access.log | uploaded.gif"%>
